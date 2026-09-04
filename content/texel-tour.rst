@@ -28,7 +28,7 @@ bit of adventure in getting back home.
    :width: 80%
 
    Group photo at a lookout point on the coast before arriving at Texel.
-   Pascal, Jule, Neville, Christoph, Benjamin, Sara, Nora, Yumi, and Jason.
+   Pascal, Jules, Neville, Christoph, Benjamin, Sara, Nora, Yumi, and Jason.
 
 .. figure:: https://mechmotum.s3.us-east-005.dream.io/texel-tour-dunes.png
    :align: center
